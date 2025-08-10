@@ -27,8 +27,8 @@ Dự định thêm
 Link để tải game về tại: https://drive.google.com/file/d/1e1aDhaVzhUXM8CH-NnfnDQmXd6-1-Vi8/view?usp=sharing
 
 Cách để chạy jar file
-B1. Tải game về
-B2. Tới đường dẫn của file jar tải về đó
-B3. Ở chỗ phần đường dẫn, thay bằng cách ghi cmd
-B4. Nhập java -jar Chess_v01.jar
-B5. Xong
+* B1. Tải game về
+* B2. Tới đường dẫn của file jar tải về đó
+* B3. Ở chỗ phần đường dẫn, thay bằng cách ghi cmd
+* B4. Nhập java -jar Chess_v01.jar
+* B5. Xong
