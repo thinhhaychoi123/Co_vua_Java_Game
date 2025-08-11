@@ -21,6 +21,7 @@ Dự định thêm
 * Thêm cài đặt tùy chỉnh về ai (đổi độ sâu)
 * Thêm cài đặt đảo bảng (bên đen ở dưới)
 * Dùng thư viện chess engine ngoài như Stockfish
+* Thêm mode timer (gồm tùy chỉnh thời gian, thời gian cộng thêm)
 
   Nghĩ nhiêu đây thôi, nếu bạn có thêm ý kiến thì nói cho mình thử
 
